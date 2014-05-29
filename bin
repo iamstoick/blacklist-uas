@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#
+echo -e "\n# Blacklist UAS  \nblacklist uas" >> /etc/modprobe.d/blacklist.conf
